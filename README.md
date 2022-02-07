@@ -1,5 +1,7 @@
 # Odyssey Lift-off II: Resolvers
 
+https://user-images.githubusercontent.com/49074930/152887183-12df5118-667f-4eb7-8742-1db4391be76c.mp4
+
 Welcome to the companion app of Odyssey Lift-off II! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part2), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
